@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514611959 source:d:\program\c_and_c++\2018_fireworks\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	<ctime>
+	<conio.h>
+
